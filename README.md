@@ -17,3 +17,6 @@ The Ping Pong game project in Java has a variety of features to enhance the user
 • Network play: The game can be played either on a single computer or over a network.
 
 • Swing library: The game is written in Java and uses the Swing library for the graphical user interface.
+
+Technology Used: Java and Java GUI and Java Swing
+IDE: Eclipse
